@@ -8,7 +8,7 @@
 
 ## Homework (reverse chronological)
 
-- Homework 1 (Complete before class on Thursday, Feb. 3) 
+- Homework 1 (Complete before class on Thursday, Feb. 2) 
 	- [link](Homework/HW_1_installation/HW_1_installation.pdf)
 	
 ---	
@@ -16,10 +16,8 @@
 
 ## Learning Modules
 - [Module 1 -- Introduction](Module_1_Intro/)
-    - 2022-02-01 | syllabus review
-    - 2022-02-03  | Review [introductory materials](Module_1_Intro/notes_01_intro.pdf))
-        - Reminder:  Be sure to finish Section 1 of the [introductory materials](Module_1_Intro/notes_01_intro.pdf) by Tuesday, Feb. 8.
-        - Reminder:  Be sure to finish Section 2 of the [introductory materials](Module_1_Intro/notes_01_intro.pdf) by Thursday, Feb. 10.
+    - 2022-01-31 | syllabus review
+    - 2022-02-02  | Review [introductory materials](Module_1_Intro/notes_01_intro.pdf))
 	- TBD | In-class exercise (extracting useful info from Zoom invitations)
 	
 	
