@@ -1,6 +1,6 @@
 # IE 555 - Main Landing Page
 
-- [Syllabus](IE_555_Syllabus_Spring_2022.pdf)
+- [Syllabus](IE_555_Syllabus_Spring_2023.pdf)
 - You are also encouraged to install the [Github Desktop App](https://desktop.github.com).
 
 ---
