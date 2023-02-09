@@ -8,6 +8,10 @@
 
 ## Homework (reverse chronological)
 
+- Homework 2 (Print and submit paper at the beginning of class on **Thursday, Feb. 16**)
+    - [link](Homework/HW_2_handwritten/HW_2_console_practice.pdf)
+    
+    
 - Homework 1 (Complete before class on Thursday, Feb. 2) 
 	- [link](Homework/HW_1_installation/HW_1_installation.pdf)
 	
