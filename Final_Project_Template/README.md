@@ -68,7 +68,7 @@ plt.show()
 
 The output from this code is shown below:
 
-![Image of Plot](images/samplefigure.png)
+![Image of Plot](samplefigure.png)
 
 ---
 
