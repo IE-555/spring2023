@@ -10,6 +10,17 @@ YouTube Video:  [Link](http://your_link_goes_here)
 
 
 ---
+## Task List
+*The table below will serve as your Progress Report (due by end of day on Monday, May 8).  Be sure to list all tasks that you need to complete to finish your analysis and to successfully complete the requirements of this project.*
+
+| ID | Task Description | Due Date | Status |
+| --- | --- | --- | --- |
+| 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
+| ... |  | | 
+| n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
+| n | Upload README.md document to Github | 2023-05-17 |
+
+--- 
 
 ## Introduction
 *The purpose of this section is to provide some background about your project.  For example, your introduction should discuss*
