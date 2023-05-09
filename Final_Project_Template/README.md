@@ -1,6 +1,6 @@
 # Write a Brief Descriptive Title Here
 
-Authors:  **Name 1**, **Name 2**, etc.
+Authors:  **Mihir Ravindra Jadhav**, **Poorva Bhatia**, **Pushkar Shirish Kulkarni**, **Ankita Anand**.
 
 YouTube Video:  [Link](http://your_link_goes_here)
 
@@ -15,10 +15,16 @@ YouTube Video:  [Link](http://your_link_goes_here)
 
 | ID | Task Description | Due Date | Status |
 | --- | --- | --- | --- |
-| 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
-| ... |  | | 
-| n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
-| n | Upload README.md document to Github | 2023-05-17 |
+| 1 | Research and study the YouTube API documentation | 2023-04-19 | DONE |
+| 2 | Setup YouTube API credentials and authorize requests | 2023-04-21 | DONE |
+| 3 | Searching and writing Python code to call the YouTube API and retrieve video metadata and metrics with appropriate referencing | 2023-05-01 | DONE |
+| 4 | Cleaning and preprocessing dataset using Pandas library | 2023-05-11 | WIP |
+| 5 | Perform exploratory data analysis and generate insights | 2023-05-12 | WIP |
+| 6 | Create data visualizations using data visualization libraries and generate corresponding line charts, bar charts, histograms, etc. to analyze different matrices such as view count, like and dislike count, for a particular YouTube channel | 2023-05-13 | PENDING |
+| 7 | Write final project report of findings which will include project objectives, data analysis, methodology and conclusions | 2023-05-15 | PENDING |
+| 8 | Record, edit and upload YouTube video showcasing project | 2023-05-15 | PENDING |
+| 9 | Commit final changes to the README.md file in GitHub Repository | 2023-05-16 | PENDING |
+| 10 | Check for final changes and submit the entire project with all the necessary documentation and referencing | 2023-05-17 | PENDING |
 
 --- 
 
